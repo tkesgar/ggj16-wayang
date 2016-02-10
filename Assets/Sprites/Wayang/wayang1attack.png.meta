@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 91e6ab8cc1876f046b0acf899a69cf94
+timeCreated: 1454220096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wayang1attack_0
+    21300002: wayang1attack_1
+    21300004: wayang1attack_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wayang1attack_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 313
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -235.5}
+        - {x: 34.5, y: -102.5}
+        - {x: 34.5, y: -77.5}
+        - {x: 90.5, y: -251.5}
+        - {x: 99.5, y: -251.5}
+        - {x: 101.5, y: -248.5}
+        - {x: 156.5, y: 58.5}
+        - {x: 156.5, y: 160.5}
+        - {x: -27.5, y: 251.5}
+        - {x: -75.5, y: 251.5}
+        - {x: -90.5, y: 208.5}
+        - {x: -76.5, y: 202.5}
+        - {x: -98.5, y: 185.5}
+        - {x: -156.5, y: 130.5}
+        - {x: -156.5, y: -151.5}
+        - {x: -140.5, y: -251.5}
+        - {x: -19.5, y: -251.5}
+      - - {x: 112.5, y: 88.5}
+        - {x: 110.5, y: 86.5}
+        - {x: 110.5, y: 84.5}
+        - {x: 112.5, y: 82.5}
+        - {x: 114.5, y: 82.5}
+        - {x: 116.5, y: 84.5}
+        - {x: 116.5, y: 86.5}
+        - {x: 114.5, y: 88.5}
+      - - {x: 9.5, y: 206.5}
+        - {x: 12.5, y: 207.5}
+        - {x: 12.5, y: 210.5}
+        - {x: 9.5, y: 211.5}
+        - {x: 7.5, y: 209.5}
+    - name: wayang1attack_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 389
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149.5, y: -35}
+        - {x: 141.5, y: -34}
+        - {x: 129.5, y: -34}
+        - {x: 123.5, y: -25}
+        - {x: 128.5, y: -31}
+        - {x: 140.5, y: -25}
+        - {x: 144.5, y: -8}
+        - {x: 145.5, y: 33}
+        - {x: 140.5, y: 37}
+        - {x: 118.5, y: 77}
+        - {x: 176.5, y: 97}
+        - {x: 145.5, y: 17}
+        - {x: 148.5, y: 6}
+        - {x: 169.5, y: -287}
+        - {x: 178.5, y: -287}
+        - {x: 194.5, y: -211}
+        - {x: 194.5, y: 127}
+        - {x: 128.5, y: 285}
+        - {x: 122.5, y: 287}
+        - {x: -88.5, y: 287}
+        - {x: -194.5, y: 220}
+        - {x: -194.5, y: 120}
+        - {x: -114.5, y: -264}
+        - {x: -87.5, y: -287}
+        - {x: -72.5, y: -287}
+        - {x: -79.5, y: -148}
+        - {x: 129.5, y: -287}
+        - {x: 161.5, y: -287}
+    - name: wayang1attack_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 447
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 132}
+        - {x: 25.5, y: 87}
+        - {x: -21.5, y: 19}
+        - {x: -20.5, y: -43}
+        - {x: 22.5, y: -68}
+        - {x: -25.5, y: -104}
+        - {x: -31.5, y: -115}
+        - {x: -27.5, y: -147}
+        - {x: 107.5, y: -146}
+        - {x: 89.5, y: -306}
+        - {x: 100.5, y: -306}
+        - {x: 105.5, y: -267}
+        - {x: 129.5, y: -153}
+        - {x: 179.5, y: -160}
+        - {x: 208.5, y: -303}
+        - {x: 209.5, y: -306}
+        - {x: 223.5, y: -306}
+        - {x: 223.5, y: -289}
+        - {x: 212.5, y: -135}
+        - {x: 202.5, y: -65}
+        - {x: 223.5, y: -19}
+        - {x: 223.5, y: 220}
+        - {x: 100.5, y: 302}
+        - {x: 67.5, y: 306}
+        - {x: -5.5, y: 306}
+        - {x: -14.5, y: 304}
+        - {x: -39.5, y: 264}
+        - {x: -65.5, y: 224}
+        - {x: -64.5, y: 197}
+        - {x: -47.5, y: 186}
+        - {x: -32.5, y: 161}
+        - {x: -173.5, y: 163}
+        - {x: -217.5, y: 212}
+        - {x: -223.5, y: 202}
+        - {x: -223.5, y: 110}
+        - {x: -211.5, y: 106}
+        - {x: -123.5, y: -306}
+        - {x: -111.5, y: -306}
+        - {x: -129.5, y: -214}
+        - {x: -198.5, y: 116}
+        - {x: -113.5, y: 108}
+      - - {x: 155.5, y: -144}
+        - {x: 155.5, y: -150}
+        - {x: 160.5, y: -150}
+        - {x: 161.5, y: -149}
+        - {x: 161.5, y: -144}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: aa1468551b69be74183585011fddcc07
+timeCreated: 1454145874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: title_0
+    21300002: title_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: title_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 342
+        width: 533
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 266.5, y: 2}
+        - {x: 251.5, y: 34}
+        - {x: 238.5, y: 40}
+        - {x: 228.5, y: 74}
+        - {x: 218.5, y: 90}
+        - {x: 189.5, y: 122}
+        - {x: 39.5, y: 122}
+        - {x: -61.5, y: 109}
+        - {x: -183.5, y: 51}
+        - {x: -201.5, y: 35}
+        - {x: -210.5, y: 23}
+        - {x: -197.5, y: -8}
+        - {x: -241.5, y: -18}
+        - {x: -195.5, y: 50}
+        - {x: -187.5, y: 49}
+        - {x: -170.5, y: 58}
+        - {x: -176.5, y: 77}
+        - {x: -195.5, y: 77}
+        - {x: -266.5, y: 45}
+        - {x: -266.5, y: -105}
+        - {x: -248.5, y: -107}
+        - {x: -210.5, y: -122}
+        - {x: -134.5, y: -122}
+        - {x: 33.5, y: -78}
+        - {x: 140.5, y: -84}
+        - {x: 168.5, y: -29}
+        - {x: 266.5, y: -38}
+      - - {x: 187.5, y: -19}
+        - {x: 164.5, y: -25}
+        - {x: 163.5, y: -28}
+        - {x: 163.5, y: -48}
+        - {x: 183.5, y: -51}
+        - {x: 211.5, y: -51}
+        - {x: 220.5, y: -44}
+        - {x: 220.5, y: -32}
+        - {x: 209.5, y: -19}
+    - name: title_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 89
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

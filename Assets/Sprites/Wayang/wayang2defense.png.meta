@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: bf3ce237030c7b24083f6acde08aa0e5
+timeCreated: 1454220120
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wayang2defense_0
+    21300002: wayang2defense_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wayang2defense_0
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 250
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: 165.5}
+        - {x: -102, y: 233.5}
+        - {x: -43, y: 202.5}
+        - {x: -35, y: 209.5}
+        - {x: -41, y: 198.5}
+        - {x: -52, y: 199.5}
+        - {x: -68, y: 196.5}
+        - {x: -92, y: -124.5}
+        - {x: -69, y: -151.5}
+        - {x: 89, y: -295.5}
+        - {x: 117, y: -295.5}
+        - {x: 105, y: -229.5}
+        - {x: 91, y: -98.5}
+        - {x: 117, y: -295.5}
+        - {x: 125, y: -295.5}
+        - {x: 125, y: -215.5}
+        - {x: 118, y: -89.5}
+        - {x: 125, y: -2.5}
+        - {x: 125, y: 198.5}
+        - {x: 53, y: 295.5}
+        - {x: -115, y: 295.5}
+        - {x: -125, y: 274.5}
+        - {x: -125, y: 186.5}
+        - {x: -98, y: -295.5}
+        - {x: -89, y: -295.5}
+        - {x: -90, y: -259.5}
+        - {x: -101, y: -55.5}
+        - {x: -109, y: 91.5}
+    - name: wayang2defense_1
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 274
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -246.5}
+        - {x: 137, y: -246.5}
+        - {x: 137, y: -217.5}
+        - {x: 91, y: 92.5}
+        - {x: 44, y: 200.5}
+        - {x: 14, y: 246.5}
+        - {x: -73, y: 246.5}
+        - {x: -85, y: 243.5}
+        - {x: -137, y: 180.5}
+        - {x: -137, y: 120.5}
+        - {x: -86, y: -246.5}
+        - {x: -2, y: -246.5}
+        - {x: -5, y: -223.5}
+        - {x: 30, y: -45.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

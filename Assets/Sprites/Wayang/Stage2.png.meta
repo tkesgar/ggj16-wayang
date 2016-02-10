@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: e72698b8ca1212a4492c5df02c7329e0
+timeCreated: 1454227546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stage2_0
+    21300002: Stage2_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stage2_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 287
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.5, y: 61.5}
+        - {x: 128.5, y: 87.5}
+        - {x: 143.5, y: 126.5}
+        - {x: 143.5, y: 220.5}
+        - {x: 94.5, y: 281.5}
+        - {x: 49.5, y: 303.5}
+        - {x: 21.5, y: 307.5}
+        - {x: -28.5, y: 307.5}
+        - {x: -69.5, y: 294.5}
+        - {x: -107.5, y: 264.5}
+        - {x: -134.5, y: 226.5}
+        - {x: -143.5, y: 191.5}
+        - {x: -143.5, y: 131.5}
+        - {x: -125.5, y: 77.5}
+        - {x: -76.5, y: 30.5}
+        - {x: -9.5, y: 13.5}
+        - {x: -4.5, y: 16.5}
+        - {x: -4.5, y: -307.5}
+        - {x: 6.5, y: -307.5}
+        - {x: 7.5, y: 16.5}
+        - {x: 32.5, y: 19.5}
+        - {x: 69.5, y: 31.5}
+      - - {x: 28.5, y: 63.5}
+        - {x: 31.5, y: 64.5}
+        - {x: 31.5, y: 67.5}
+        - {x: 28.5, y: 68.5}
+        - {x: 26.5, y: 66.5}
+      - - {x: -81.5, y: 97.5}
+        - {x: -79.5, y: 95.5}
+        - {x: -76.5, y: 96.5}
+        - {x: -76.5, y: 99.5}
+        - {x: -78.5, y: 101.5}
+        - {x: -81.5, y: 100.5}
+      - - {x: -0.5, y: 136.5}
+        - {x: 7.5, y: 136.5}
+        - {x: 16.5, y: 138.5}
+        - {x: 21.5, y: 148.5}
+        - {x: 21.5, y: 156.5}
+        - {x: 16.5, y: 156.5}
+        - {x: -0.5, y: 143.5}
+      - - {x: -8.5, y: 185.5}
+        - {x: -15.5, y: 182.5}
+        - {x: -21.5, y: 177.5}
+        - {x: -21.5, y: 173.5}
+        - {x: -20.5, y: 171.5}
+        - {x: -1.5, y: 171.5}
+        - {x: 9.5, y: 178.5}
+        - {x: 9.5, y: 184.5}
+        - {x: 2.5, y: 185.5}
+      - - {x: -68.5, y: 242.5}
+        - {x: -67.5, y: 239.5}
+        - {x: -64.5, y: 239.5}
+        - {x: -62.5, y: 241.5}
+        - {x: -63.5, y: 244.5}
+        - {x: -66.5, y: 244.5}
+    - name: Stage2_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 126
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 308.5}
+        - {x: -63, y: 281.5}
+        - {x: -63, y: 214.5}
+        - {x: -29, y: 178.5}
+        - {x: -6, y: -308.5}
+        - {x: 5, y: -308.5}
+        - {x: 63, y: 100.5}
+        - {x: 63, y: 299.5}
+        - {x: 39, y: 308.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
